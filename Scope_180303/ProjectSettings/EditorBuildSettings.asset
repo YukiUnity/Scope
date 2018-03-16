@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Levels/St0.unity
+    guid: 4f96124c2f499ae4184ebd8ab5ff617b
+  - enabled: 1
+    path: Assets/Levels/StageSelect.unity
+    guid: 87fb126faabd1584abc7f107c294011a
+  - enabled: 1
+    path: Assets/Levels/Title.unity
+    guid: 400b6e404b3a05948a16e9a09c433fe4
